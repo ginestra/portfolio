@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# My portfolio
 
-You can use the [editor on GitHub](https://github.com/ginestra/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio includes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Freelance projects
+* Projects developed while working at [KDL](https://github.com/kingsdigitallab)
+* Personal projects (developed to experiment, learn and for fun)
 
-### Markdown
+## Possible colour palettes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* https://coolors.co/dbc2cf-9fa2b2-3c7a89-2e4756-16262e -- favourite
+* https://coolors.co/d5c5c8-9da3a4-604d53-db7f8e-ffdbda
+* https://coolors.co/9ad2cb-d7ebba-feffbe-ebd494-472836
+* https://coolors.co/8a4f7d-887880-88a096-bbab8b-ef8275
+* https://coolors.co/cdc5b4-b59da4-85756e-6d3d14-551b14
+* https://coolors.co/6a0136-bfab25-b81365-026c7c-055864
+* https://coolors.co/d7263d-f46036-2e294e-1b998b-c5d86d -- v colourful
+* https://coolors.co/ebe9e9-f3f8f2-3581b8-fcb07e-dee2d6 -- good pop up colours
 
-```markdown
-Syntax highlighted code block
+## Disclaimer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ginestra/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+this site is designed with the KISS principle in mind. :)
