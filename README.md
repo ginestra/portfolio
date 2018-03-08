@@ -19,4 +19,4 @@ This portfolio includes:
 
 ## Disclaimer
 
-this site is designed with the KISS principle in mind. :)
+This site is designed with the KISS principle in mind. :)
